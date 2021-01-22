@@ -191,6 +191,7 @@
 
 租借：
 ![租借.png](https://upload-images.jianshu.io/upload_images/13922649-81956e3b9294b369.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![租借 (2).png](https://upload-images.jianshu.io/upload_images/13922649-bf5015e2f4ec0b4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -200,10 +201,11 @@
 
 我的：
 ![我的.png](https://upload-images.jianshu.io/upload_images/13922649-d9ec188eedd8401b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-sport/raw/master/images/%E6%88%91%E7%9A%84.png "我的")
+
 
 ---
  :four: 产品路线图：产品的调性主要是环保、轻松地锻炼身体，产品路线是:亲近、便捷、友好。
+ 
 ![产品路线图.jpg](https://upload-images.jianshu.io/upload_images/13922649-17a3de1171bc435e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
  :five: 产品功能性需求
