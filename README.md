@@ -30,19 +30,23 @@
 
 通过我们这次的问卷调查数据反馈得出，就主要以目前我们南苑的学生为主体，去试着分析运动器材共享柜在我们南方学院的市场到底是怎样的  
 
-<img src="https://gitee.com/jimgitc/images/raw/master/2020-01-05/问卷1.JPG">  
+ ![问卷1.jpg](https://upload-images.jianshu.io/upload_images/13922649-8f9996ab484f266c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
  
 + 从问卷得知，学生们对运动器材有一定的需求量，并且不算太少，在一定程度上我们把运动器材的共享价格压低的话，应该会有更大需求量，以下图表就是论证的依据：  
 
-<img src="https://gitee.com/jimgitc/images/raw/master/2020-01-05/问卷2.JPG">    
+![问卷2.jpg](https://upload-images.jianshu.io/upload_images/13922649-38421d1435ecf7c2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  
 
 + 所以我们从价格的区间去看的话，学生们还是比较愿意接受在20元以内每周的花费的：
 
-<img src="https://gitee.com/jimgitc/images/raw/master/2020-01-05/问卷3.JPG">   
+![问卷3.jpg](https://upload-images.jianshu.io/upload_images/13922649-5187913fa2e776af.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  
 
 + 而且最重要的，我们平台还提供了线上约小伙伴的功能，所以这进一步扩大了同学们运动的需求，从而提高他们对我们运动器材柜使用量：  
 
-<img src="https://gitee.com/jimgitc/images/raw/master/2020-01-05/问卷4.JPG">   
+![问卷4.jpg](https://upload-images.jianshu.io/upload_images/13922649-ef3805223c506a4d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
  
 + 总结：  
 1. 南苑学生对于共享运动器材有需求，那么该项目就有市场  
@@ -121,7 +125,7 @@
 
 西安市和宝鸡市今年起设置共享体育亭，所谓智慧共享体育亭，就是造型为手骑单车的共享体育器材柜，里面放置了篮球、足球、含网架的羽毛球、毽子、乒乓球、空竹、象棋等体育器材以及医疗急救包，市民可根据自身需求，通过扫码付款的方式租赁体育器材，每小时的租赁费5元左右。是政府首次试水“互联网+体育”的便捷服务。
 
-![西安共享体育亭](http://www.changanqu.gov.cn/web_files/picture/2020/12/14/202012140935261843210.jpg?x-oss-process=image/resize,w_800)
+![共享体育亭.jpg](https://upload-images.jianshu.io/upload_images/13922649-9f5f312e5e43a529.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 由此可见,发展共享体育一定要紧贴体育特色,找准市场需求,有针对性的发展。。
 
@@ -178,25 +182,29 @@
  :two: 产品核心目标：①解决南苑师生运动器材短缺的问题  ②解决器材闲置的问题  ③提高南苑师生运动量，提高身体素质
 
  :three: 产品结构：如下图，我们也做出了相应的原型草图
-![结构](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E7%BB%93%E6%9E%84.png "结构")
+![结构.png](https://upload-images.jianshu.io/upload_images/13922649-b43d1fc3148ee192.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ---
 首页：
-![首页](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E9%A6%96%E9%A1%B5.png "首页")
+![首页.png](https://upload-images.jianshu.io/upload_images/13922649-d76139cfa5ec7830.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 租借：
-![借入](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E7%A7%9F%E5%80%9F.png "借入")
-![出租](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E7%A7%9F%E5%80%9F%20(2).png "出租")
+![租借.png](https://upload-images.jianshu.io/upload_images/13922649-81956e3b9294b369.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![租借 (2).png](https://upload-images.jianshu.io/upload_images/13922649-bf5015e2f4ec0b4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 约友：
-![约友](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E7%BA%A6%E5%8F%8B.png "约友")
+![约友.png](https://upload-images.jianshu.io/upload_images/13922649-4e87124a73f69e9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 我的：
-![我的](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E6%88%91%E7%9A%84.png "我的")
+![我的.png](https://upload-images.jianshu.io/upload_images/13922649-d9ec188eedd8401b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+sport/raw/master/images/%E6%88%91%E7%9A%84.png "我的")
 
 ---
  :four: 产品路线图：产品的调性主要是环保、轻松地锻炼身体，产品路线是:亲近、便捷、友好。
-![路线](https://gitee.com/windy-feier/smart_-city_-sport/raw/master/images/%E4%BA%A7%E5%93%81%E8%B7%AF%E7%BA%BF%E5%9B%BE.jpg "路线")
+![产品路线图.jpg](https://upload-images.jianshu.io/upload_images/13922649-17a3de1171bc435e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
  :five: 产品功能性需求
 
